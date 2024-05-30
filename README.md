@@ -164,7 +164,7 @@
 <li><h4>Memulai Pemrograman dengan Dart</h4></li>
 </ul>
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyttEt681hSia3uHYLr65Y0oe4z9U4UeU_pLmDtIUeoMaT3m4ElMFCcJm5D9r9yVdm5bo&usqp=CAU" height="35px">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyttEt681hSia3uHYLr65Y0oe4z9U4UeU_pLmDtIUeoMaT3m4ElMFCcJm5D9r9yVdm5bo&usqp=CAU" height="40px">
 <ul>
 <li><h4>Laravel 10 - Build Multi Vendor Ecommerce Website</h4></li>
 <li><h4>NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno)</h4></li>
