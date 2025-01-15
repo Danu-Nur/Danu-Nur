@@ -94,9 +94,9 @@ Here are some of the projects I've worked on:
 <p align="center">  
     <img src="https://github-readme-stats.vercel.app/api?username=danu-nur&theme=tokyonight&show_icons=true&locale=en" alt="GitHub Stats" />  
 </p>  
-<p align="center">
+<!-- <p align="center">
     <img src="https://streak-stats.demolab.com?user=danu-nur&theme=tokyonight&date_format=j%20M%5B%20Y%5D&mode=weekly" />
-</p> 
+</p>  -->
 <p align="center">  
     <a href="https://github.com/ryo-ma/github-profile-trophy">  
         <img src="https://github-profile-trophy.vercel.app/?username=danu-nur&theme=tokyonight" alt="GitHub Trophy" />  
