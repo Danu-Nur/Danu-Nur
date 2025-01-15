@@ -18,10 +18,10 @@
 ## 🌐 Connect with Me  
 <p align="center">  
     <a href="https://linkedin.com/in/danu-nur-irwanto-36a03811b" target="_blank">  
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />  
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="80" width="80" />  
     </a>  
     <a href="https://instagram.com/danu_irwant" target="_blank">  
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />  
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="80" width="80" />  
     </a>  
 </p>  
   
@@ -29,13 +29,13 @@
   
 ## 🛠️ Languages and Tools  
 
-|  |  |  |  |  |  |
-|---|---|---|---|---|---|  
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="30" height="30" /> | <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="30" height="30" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="30" height="30" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="30" height="30" /> | <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="CanvasJS" width="30" height="30" /> | <img src="https://www.chartjs.org/media/logo-title.svg" alt="Chart.js" width="30" height="30" /> |  
-| <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="CodeIgniter" width="30" height="30" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="30" height="30" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="30" height="30" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="30" height="30" /> | <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="30" height="30" /> | <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="30" height="30" /> |  
-| <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="30" height="30" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="30" height="30" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="30" height="30" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" height="30" /> | <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" width="30" height="30" /> | <img src="https://laravel.com/img/logomark.min.svg" alt="Laravel" width="30" height="30" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="30" height="30" /> |  
-| <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="MariaDB" width="30" height="30" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="30" height="30" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="30" height="30" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="30" height="30" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="30" height="30" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="30" height="30" /> |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="30" height="30" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" width="30" height="30" /> | <img src="https://upload.wikimedia.org/wikipedia/he/thumb/3/39/Microsoft_SQL_server_logo.png/250px-Microsoft_SQL_server_logo.png" alt="SQL Server" width="30" height="30" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="Windows" width="30" height="30" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="30" height="30" /> | <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="30" height="30" /> | 
+|  |  |  |  |  |  |  |  |
+|---|---|---|---|---|---|---|---|  
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="100" height="100" /> | <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="100" height="100" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="100" height="100" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="100" height="100" /> | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu30x4C2fJ9voO9wYYlxn8UJ1iqMX2W9XHcQ&s" alt="CanvasJS" width="100" height="100" /> | <img src="https://www.chartjs.org/media/logo-title.svg" alt="Chart.js" width="100" height="100" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="100" height="100" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" width="100" height="100" /> |
+| <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="CodeIgniter" width="100" height="100" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="100" height="100" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="100" height="100" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="100" height="100" /> | <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="100" height="100" /> | <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="100" height="100" /> | <img src="https://upload.wikimedia.org/wikipedia/he/thumb/3/39/Microsoft_SQL_server_logo.png/250px-Microsoft_SQL_server_logo.png" alt="SQL Server" width="100" height="100" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="Windows" width="100" height="100" /> |
+| <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="100" height="100" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="100" height="100" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="100" height="100" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="100" height="100" /> | <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" width="100" height="100" /> | <img src="https://laravel.com/img/logomark.min.svg" alt="Laravel" width="100" height="100" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="100" height="100" /> | <img src="http://www.jonclawson.com/sites/jonclawson.com/files/imagecache/small/expressjs_logo.png" alt="Express.js" width="100" height="70" /> | <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="100" height="100" /> |
+| <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="MariaDB" width="100" height="100" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="100" height="100" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="100" height="100" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="100" height="100" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="100" height="100" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original-wordmark.svg" alt="FIREBASE" width="100" height="100" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original-wordmark.svg" alt="SQLlite" width="100" height="100" /> | <img src="https://cdn-icons-png.flaticon.com/512/5968/5968941.png" alt="SHOPIFY" width="100" height="100" /> |
+
 
 ---  
   
@@ -43,13 +43,13 @@
 ### Completed Courses  
 | Course | Platform |  
 |--------|-------|  
-| Responsive Web Design | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToG-Qp0K4UBPzNfu7JeUEZUZuEZNYmUFTZo3eTvUoDg2iamY8vNWDfy455DExnyCO26A&usqp=CAU" height="30px" alt="Responsive Web Design" /> |  
-| JavaScript Algorithms and Data Structures | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRb7UY8hxIdVjK8FAlrbGagSywJUTPZWTQ6Wg&s" height="30px" alt="JavaScript Algorithms and Data Structures" /> |  
-| Memulai Pemrograman dengan Dart | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyttEt681hSia3uHYLr65Y0oe4z9U4UeU_pLmDtIUeoMaT3m4ElMFCcJm5D9r9yVdm5bo&usqp=CAU" height="30px" alt="Dart Programming" /> |  
-| Laravel 10 - Build Multi Vendor Ecommerce Website | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyttEt681hSia3uHYLr65Y0oe4z9U4UeU_pLmDtIUeoMaT3m4ElMFCcJm5D9r9yVdm5bo&usqp=CAU" height="30px" alt="Laravel" /> |  
-| NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno) | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyttEt681hSia3uHYLr65Y0oe4z9U4UeU_pLmDtIUeoMaT3m4ElMFCcJm5D9r9yVdm5bo&usqp=CAU" height="30px" alt="NodeJS" /> |  
-| Flutter & Dart - The Complete Guide | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyttEt681hSia3uHYLr65Y0oe4z9U4UeU_pLmDtIUeoMaT3m4ElMFCcJm5D9r9yVdm5bo&usqp=CAU" height="30px" alt="Flutter" /> |  
-| The Complete Android 14 Developer Course - Java & Kotlin | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyttEt681hSia3uHYLr65Y0oe4z9U4UeU_pLmDtIUeoMaT3m4ElMFCcJm5D9r9yVdm5bo&usqp=CAU" height="30px" alt="Android Development" /> |  
+| Responsive Web Design | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToG-Qp0K4UBPzNfu7JeUEZUZuEZNYmUFTZo3eTvUoDg2iamY8vNWDfy455DExnyCO26A&usqp=CAU" height="50" alt="Responsive Web Design" /> |  
+| JavaScript Algorithms and Data Structures | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRb7UY8hxIdVjK8FAlrbGagSywJUTPZWTQ6Wg&s" height="50" alt="JavaScript Algorithms and Data Structures" /> |  
+| Memulai Pemrograman dengan Dart | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyttEt681hSia3uHYLr65Y0oe4z9U4UeU_pLmDtIUeoMaT3m4ElMFCcJm5D9r9yVdm5bo&usqp=CAU" height="50" alt="Dart Programming" /> |  
+| Laravel 10 - Build Multi Vendor Ecommerce Website | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyttEt681hSia3uHYLr65Y0oe4z9U4UeU_pLmDtIUeoMaT3m4ElMFCcJm5D9r9yVdm5bo&usqp=CAU" height="50" alt="Laravel" /> |  
+| NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno) | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyttEt681hSia3uHYLr65Y0oe4z9U4UeU_pLmDtIUeoMaT3m4ElMFCcJm5D9r9yVdm5bo&usqp=CAU" height="50" alt="NodeJS" /> |  
+| Flutter & Dart - The Complete Guide | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyttEt681hSia3uHYLr65Y0oe4z9U4UeU_pLmDtIUeoMaT3m4ElMFCcJm5D9r9yVdm5bo&usqp=CAU" height="50" alt="Flutter" /> |  
+| The Complete Android 14 Developer Course - Java & Kotlin | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyttEt681hSia3uHYLr65Y0oe4z9U4UeU_pLmDtIUeoMaT3m4ElMFCcJm5D9r9yVdm5bo&usqp=CAU" height="50" alt="Android Development" /> |  
   
 ---  
   
@@ -74,13 +74,13 @@ Here are some of the projects I've worked on:
 ## 💼 Skills  
 | Skill Category |   
 |----------------|  
-| Programming Languages | 
 | Web Development | 
 | Mobile Development |
 | Backend Development |
 | Database Management |
 | Version Control | 
-| Cloud Services |  
+| RESTful APIs |  
+| Internet Of Things (IoT) |
 | Responsive User Interface Design |  
 | Object-Oriented Programming (OOP) |  
 | Full Stack Development |  
@@ -89,16 +89,16 @@ Here are some of the projects I've worked on:
   
 ## 📊 GitHub Stats  
 <p align="center">  
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=danu-nur&show_icons=true&locale=en&layout=compact" alt="Most Used Languages" />  
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=danu-nur&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="Most Used Languages" />  
 </p>  
 <p align="center">  
-    <img src="https://github-readme-stats.vercel.app/api?username=danu-nur&show_icons=true&locale=en" alt="GitHub Stats" />  
+    <img src="https://github-readme-stats.vercel.app/api?username=danu-nur&theme=tokyonight&show_icons=true&locale=en" alt="GitHub Stats" />  
 </p>  
-<p align="center">  
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=danu-nur&" alt="GitHub Streak" />  
-</p>  
+<p align="center">
+    <img src="https://streak-stats.demolab.com?user=danu-nur&theme=tokyonight&date_format=j%20M%5B%20Y%5D&mode=weekly" />
+</p> 
 <p align="center">  
     <a href="https://github.com/ryo-ma/github-profile-trophy">  
-        <img src="https://github-profile-trophy.vercel.app/?username=danu-nur" alt="GitHub Trophy" />  
+        <img src="https://github-profile-trophy.vercel.app/?username=danu-nur&theme=tokyonight" alt="GitHub Trophy" />  
     </a>  
 </p>  
