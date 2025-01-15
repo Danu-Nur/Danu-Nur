@@ -16,18 +16,19 @@
 ---  
   
 ## 🌐 Connect with Me  
-<p align="center">  
-    <a href="https://linkedin.com/in/danu-nur-irwanto-36a03811b" target="_blank">  
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="80" width="80" />  
-    </a>  
-    <a href="https://instagram.com/danu_irwant" target="_blank">  
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="80" width="80" />  
-    </a>  
-</p>  
+
+<div align="center"> 
+
+|  |  |    
+|---|---|
+| <a href="https://linkedin.com/in/danu-nur-irwanto-36a03811b" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="80" width="80" /> </a> | <a href="https://instagram.com/danu_irwant" target="_blank">  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="80" width="80" />  </a> |
+        
+</div>  
   
----  
-  
+---
+
 ## 🛠️ Languages and Tools  
+<div align="center">  
 
 |  |  |  |  |  |  |  |  |
 |---|---|---|---|---|---|---|---|  
@@ -36,11 +37,15 @@
 | <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="100" height="100" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="100" height="100" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="100" height="100" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="100" height="100" /> | <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" width="100" height="100" /> | <img src="https://laravel.com/img/logomark.min.svg" alt="Laravel" width="100" height="100" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="100" height="100" /> | <img src="http://www.jonclawson.com/sites/jonclawson.com/files/imagecache/small/expressjs_logo.png" alt="Express.js" width="100" height="70" /> | <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="100" height="100" /> |
 | <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="MariaDB" width="100" height="100" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="100" height="100" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="100" height="100" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="100" height="100" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="100" height="100" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original-wordmark.svg" alt="FIREBASE" width="100" height="100" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original-wordmark.svg" alt="SQLlite" width="100" height="100" /> | <img src="https://cdn-icons-png.flaticon.com/512/5968/5968941.png" alt="SHOPIFY" width="100" height="100" /> |
 
+</div>
 
 ---  
   
 ## 📚 Courses  
 ### Completed Courses  
+
+<div align="center"> 
+    
 | Course | Platform |  
 |--------|-------|  
 | Responsive Web Design | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToG-Qp0K4UBPzNfu7JeUEZUZuEZNYmUFTZo3eTvUoDg2iamY8vNWDfy455DExnyCO26A&usqp=CAU" height="50" alt="Responsive Web Design" /> |  
@@ -49,13 +54,17 @@
 | Laravel 10 - Build Multi Vendor Ecommerce Website | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyttEt681hSia3uHYLr65Y0oe4z9U4UeU_pLmDtIUeoMaT3m4ElMFCcJm5D9r9yVdm5bo&usqp=CAU" height="50" alt="Laravel" /> |  
 | NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno) | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyttEt681hSia3uHYLr65Y0oe4z9U4UeU_pLmDtIUeoMaT3m4ElMFCcJm5D9r9yVdm5bo&usqp=CAU" height="50" alt="NodeJS" /> |  
 | Flutter & Dart - The Complete Guide | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyttEt681hSia3uHYLr65Y0oe4z9U4UeU_pLmDtIUeoMaT3m4ElMFCcJm5D9r9yVdm5bo&usqp=CAU" height="50" alt="Flutter" /> |  
-| The Complete Android 14 Developer Course - Java & Kotlin | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyttEt681hSia3uHYLr65Y0oe4z9U4UeU_pLmDtIUeoMaT3m4ElMFCcJm5D9r9yVdm5bo&usqp=CAU" height="50" alt="Android Development" /> |  
-  
+| The Complete Android 14 Developer Course - Java & Kotlin | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyttEt681hSia3uHYLr65Y0oe4z9U4UeU_pLmDtIUeoMaT3m4ElMFCcJm5D9r9yVdm5bo&usqp=CAU" height="50" alt="Android Development" /> |
+| Filament Admin Panel Course for Laravel | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyttEt681hSia3uHYLr65Y0oe4z9U4UeU_pLmDtIUeoMaT3m4ElMFCcJm5D9r9yVdm5bo&usqp=CAU" height="50" alt="Android Development" /> |
+
+</div>
+
 ---  
-  
+
 ## 🖥️ Portfolio    
-Here are some of the projects I've worked on:     
-  
+### Here are some of the projects I've worked on:     
+<div align="center"> 
+      
 | Category                     | Website |  
 |------------------------------|---------|  
 | E-Commerce                   | <a href="https://indracostore.com" target="_blank">IndracoStore</a> |  
@@ -68,23 +77,25 @@ Here are some of the projects I've worked on:
 | E-Commerce                   | <a href="https://supresso.com" target="_blank">Supresso Singapore</a> |  
 | E-Commerce                   | <a href="https://tokosda.com" target="_blank">Toko SDA</a> |  
 | Company Profile              | <a href="https://sda.co.id" target="_blank">SDA</a> |  
+
+</div>
   
 ---  
   
-## 💼 Skills  
-| Skill Category |   
-|----------------|  
-| Web Development | 
-| Mobile Development |
-| Backend Development |
-| Database Management |
-| Version Control | 
-| RESTful APIs |  
-| Internet Of Things (IoT) |
-| Responsive User Interface Design |  
-| Object-Oriented Programming (OOP) |  
-| Full Stack Development |  
-  
+## 💼 Skills
+
+<div align="center"> 
+
+|  |  |
+|---|---|  
+| Web Development | Mobile Development |
+| Backend Development | Database Management |
+| RESTful APIs | Internet Of Things (IoT) |
+| Responsive User Interface Design | Object-Oriented Programming (OOP) |  
+| Version Control | Full Stack Development |
+
+</div>
+
 ---  
   
 ## 📊 GitHub Stats  
