@@ -89,9 +89,9 @@
 |  |  |
 |---|---|  
 | Web Development | Mobile Development |
-| Backend Development | Database Management |
+| Backend Development | Frontend Development |
 | RESTful APIs | Internet Of Things (IoT) |
-| Responsive User Interface Design | Object-Oriented Programming (OOP) |  
+| Database Management | Object-Oriented Programming (OOP) |
 | Version Control | Full Stack Development |
 
 </div>
