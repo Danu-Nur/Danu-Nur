@@ -6,7 +6,7 @@
 </p>  
   
 <p align="center">  
-    <img alt="Night Coding" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTJ6NGE4cmd6MmR5ZXN5dnk3eGY3MzZ1M2I2YmJ0cHJoZG53YzZ3MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wLNuW1tCKRiPmDV5Y4/giphy.webp" width="30%" height="auto" />  
+    <img alt="Night Coding" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTJ6NGE4cmd6MmR5ZXN5dnk3eGY3MzZ1M2I2YmJ0cHJoZG53YzZ3MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wLNuW1tCKRiPmDV5Y4/giphy.webp" width="25%" height="auto" />  
 </p>  
   
 <p align="center">  
@@ -21,7 +21,7 @@
 
 |  |  |    
 |---|---|
-| <a href="https://linkedin.com/in/danu-nur-irwanto-36a03811b" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="auto" width="80" /> </a> | <a href="https://instagram.com/danu_irwant" target="_blank">  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="auto" width="80" />  </a> |
+| <a href="https://linkedin.com/in/danu-nur-irwanto-36a03811b" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="auto" width="70" /> </a> | <a href="https://instagram.com/danu_irwant" target="_blank">  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="auto" width="70" />  </a> |
         
 </div>  
   
