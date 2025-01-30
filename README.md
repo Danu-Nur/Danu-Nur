@@ -8,6 +8,20 @@
 <p align="center">  
     <img alt="Night Coding" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTJ6NGE4cmd6MmR5ZXN5dnk3eGY3MzZ1M2I2YmJ0cHJoZG53YzZ3MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wLNuW1tCKRiPmDV5Y4/giphy.webp" width="25%" height="auto" />  
 </p>  
+
+---
+
+<p align="center">
+    <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Danu-Nur&utm_content=farm">
+        <img
+          src="https://render.gitanimals.org/farms/Danu-Nur"
+          width="100%"
+          height="auto"
+        />
+    </a>
+</p>
+
+---
   
 <p align="center">  
     <img src="https://komarev.com/ghpvc/?username=danu-nur&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />  
