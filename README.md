@@ -1,139 +1,122 @@
-<h1 align="center">👋 Hi, I'm Danu</h1>  
-<p align="center">  
-    <a href="https://git.io/typing-svg">  
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=450&size=35&duration=2500&pause=1300&color=D5BC2F&center=true&vCenter=true&random=false&width=1000&lines=Welcome+to+my+Github+profile+!;I'm+a+Web+and+Mobile+Apps+Developer." alt="Typing SVG">  
-    </a>  
-</p>  
-  
-<p align="center">  
-    <img alt="Night Coding" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTJ6NGE4cmd6MmR5ZXN5dnk3eGY3MzZ1M2I2YmJ0cHJoZG53YzZ3MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wLNuW1tCKRiPmDV5Y4/giphy.webp" width="25%" height="auto" />  
-</p>  
+<h1 align="center">Hi, I'm Danu 👋</h1>
+
+<p align="center">
+  <b>Full-Stack Developer · Founder of Ryuzen Labs</b><br/>
+  I build custom business software end-to-end — web, desktop, mobile & IoT — from architecture and database design to the app your team uses every day.
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/danu-nur-irwanto-36a03811b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:diramadhan13@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://danu-nur.github.io/"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://instagram.com/danu_irwant"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+</p>
+
+---
+
+## 🧑‍💻 About me
+
+- 🏗️ I work as both **architect and developer** — I plan the system, then ship it.
+- 🖥️ Currently building a **legal operations desktop app** (Tauri v2 · Rust · React/TypeScript) with **local, privacy-first AI** (OCR, document extraction, RAG) for an overseas client.
+- 🧩 Founder of **Ryuzen Labs** — a studio building business apps: inventory & warehouse, CRM, omnichannel chat, POS, and hotel booking.
+- 🤖 I use an **AI-assisted engineering workflow** (LLM agents, MCP) to design, implement, and test faster without cutting corners.
+- 🇮🇩 Based in Indonesia · working with clients locally and worldwide.
+
+---
+
+## 🤝 What I can build for you
+
+| | |
+|---|---|
+| 🌐 **Web apps & SaaS** | Admin dashboards, e-commerce, ERP/CRM, booking systems — Laravel, React, Vue |
+| 🖥️ **Desktop apps** | Fast, secure cross-platform apps with Tauri & Rust, offline-first when needed |
+| 📱 **Mobile apps** | Android & cross-platform apps with Flutter |
+| 🤖 **AI integration** | Document OCR & extraction, RAG/chat on your own data, local LLMs for privacy |
+| ⚙️ **Automation** | Browser/portal automation, workflow and API integrations |
+| 🔌 **IoT & hardware** | ESP32/Arduino devices, firmware, and their companion apps |
+
+Ready-made products (inventory, CRM, POS, omnichat, hotel booking) are also available as **SaaS or source code** through Ryuzen Labs.
+
+---
+
+## 🚀 Featured work
+
+| Project | What it is | Stack |
+|---|---|---|
+| **Legal Ops Desktop App** *(client project, private)* | Document management, Outlook/OneDrive integration, legal-portal automation, on-premise AI extraction | Tauri v2, Rust, React, TypeScript, Playwright, Ollama |
+| **[Lumbung](https://github.com/Danu-Nur/lumbung)** | Inventory & warehouse management with multi-warehouse support and real-time stock tracking | TypeScript |
+| **Ryuzen Suite** *(in progress)* | Modular business suite: inventory, CRM, omnichat, POS, hotel booking, digital archive | Web · SaaS |
+| **Dasai Mochi DIY** | Desk robot with animated OLED eyes | ESP32-C3, C++ |
+
+### 🌐 Production websites I've built
+
+| Project | Type | Built at |
+|---|---|---|
+| [IndracoStore](https://indracostore.com) | E-commerce | INDRACO |
+| [Supresso](https://supresso.co.id) · [Supresso SG](https://supresso.com) | E-commerce | INDRACO |
+| [Supresso Menu](https://menu.supresso.co.id) | POS / digital menu | INDRACO |
+| [Indraco Point](https://point.indraco.com) | Gift & voucher management | INDRACO |
+| [Sidar](https://new.sidar.id/authsignin) | HRIS (employee management) | INDRACO |
+| [Indraco](https://indraco.com) · [Dapur Inti Rasa](https://dapurintirasa.com) | Company profile · landing page | INDRACO |
+| [Toko SDA](https://tokosda.com) · [SDA](https://sda.co.id) | E-commerce · company profile | SDA |
+
+---
+
+## 🛠️ Tech stack
+
+**Languages**<br/>
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+
+**Desktop & Mobile**<br/>
+![Tauri](https://img.shields.io/badge/Tauri-24C8D8?style=flat-square&logo=tauri&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+
+**Web**<br/>
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Filament](https://img.shields.io/badge/Filament-FDAE4B?style=flat-square&logo=laravel&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=flat-square&logo=codeigniter&logoColor=white)
+
+**Data & Infra**<br/>
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+**AI & Automation**<br/>
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-111111?style=flat-square&logo=modelcontextprotocol&logoColor=white)
+
+**Hardware**<br/>
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white)
+
+---
+
+## 📜 Certifications
+
+- **freeCodeCamp** — [Responsive Web Design](https://www.freecodecamp.org/certification/fcc249e1ede-d5d2-4bf3-b6b3-2988ee203dfa/responsive-web-design) · [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/fcc249e1ede-d5d2-4bf3-b6b3-2988ee203dfa/javascript-algorithms-and-data-structures)
+- **Udemy** — [Laravel 10: Multi-Vendor E-commerce](https://www.udemy.com/certificate/UC-9db67cac-1829-4a37-97c8-d4f564082225/) · [Node.js: The Complete Guide](https://www.udemy.com/certificate/UC-7d42b8fd-cfa4-48b1-be9a-cbc88699f398/) · [Flutter & Dart: The Complete Guide](https://www.udemy.com/certificate/UC-baac4727-1881-475d-be41-a6350e8af733/) · [Android Developer (Java & Kotlin)](https://www.udemy.com/certificate/UC-3a8bb83e-abf0-4e44-a292-b5e8dac5373f/) · [Filament Admin Panel for Laravel](https://www.udemy.com/certificate/UC-49f53366-ff8b-43eb-b06a-3f3bde317d85/)
+- **Dicoding** — [Memulai Pemrograman dengan Dart](https://www.dicoding.com/certificates/1RXY08KJ3ZVM)
 
 ---
 
 <p align="center">
-    <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Danu-Nur&utm_content=farm">
-        <img
-          src="https://render.gitanimals.org/farms/Danu-Nur"
-          width="100%"
-          height="auto"
-        />
-    </a>
+  <b>Have a project in mind? Let's build it.</b> Reach me on <a href="https://linkedin.com/in/danu-nur-irwanto-36a03811b">LinkedIn</a> or <a href="mailto:diramadhan13@gmail.com">email</a>.
 </p>
-
----
-  
-<p align="center">  
-    <img src="https://komarev.com/ghpvc/?username=danu-nur&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />  
-</p>  
-  
----  
-  
-## 🌐 Connect with Me  
-
-<div align="center"> 
-
-|  |  |    
-|---|---|
-| <a href="https://linkedin.com/in/danu-nur-irwanto-36a03811b" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="auto" width="70" /> </a> | <a href="https://instagram.com/danu_irwant" target="_blank">  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="auto" width="70" />  </a> |
-        
-</div>  
-  
----
-
-## 🛠️ Languages and Tools  
-<div align="center">  
-
-|  |  |  |  |  |
-|---|---|---|---|---|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="100" height="auto" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="100" height="auto" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="100" height="auto" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="100" height="auto" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="100" height="auto" /> |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="100" height="auto" /> | <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" width="100" height="auto" /> | <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="100" height="auto" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="100" height="auto" /> | <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="CodeIgniter" width="100" height="auto" /> |
-| <img src="https://laravel.com/img/logomark.min.svg" alt="Laravel" width="100" height="auto" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" width="100" height="auto" /> | <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="100" height="auto" /> | <img src="https://www.rapidbrains.com/assets/img/services/rapidbrains-expressjs.webp" alt="Express.js" width="100" height="auto" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="100" height="auto" /> |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="100" height="auto" /> | <img src="https://i0.wp.com/daniel-bartholomew.com/wp-content/uploads/2020/05/MariaDB-Seal-with-Text-alt.png?resize=589%2C479&ssl=1" alt="MariaDB" width="100" height="auto" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="100" height="auto" /> | <img src="https://upload.wikimedia.org/wikipedia/he/thumb/3/39/Microsoft_SQL_server_logo.png/250px-Microsoft_SQL_server_logo.png" alt="SQL Server" width="100" height="auto" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original-wordmark.svg" alt="FIREBASE" width="100" height="auto" /> | 
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original-wordmark.svg" alt="SQLlite" width="100" height="auto" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="100" height="auto" /> | <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="100" height="auto" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="Windows" width="100" height="auto" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="100" height="auto" /> |
-| <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="100" height="auto" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="100" height="auto" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="100" height="auto" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="100" height="auto" /> | <img src="https://img.icons8.com/color/512/shopify.png" alt="SHOPIFY" width="100" height="auto" /> |
-
-
-
-
-
-
-
-
-</div>
-
----  
-  
-## 📚 Courses  
-### Completed Courses  
-
-<div align="center"> 
-    
-| Course | Platform |  
-|--------|-------|  
-| <a href="https://www.freecodecamp.org/certification/fcc249e1ede-d5d2-4bf3-b6b3-2988ee203dfa/responsive-web-design">Responsive Web Design</a> | <a href="https://www.freecodecamp.org/certification/fcc249e1ede-d5d2-4bf3-b6b3-2988ee203dfa/responsive-web-design"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToG-Qp0K4UBPzNfu7JeUEZUZuEZNYmUFTZo3eTvUoDg2iamY8vNWDfy455DExnyCO26A&usqp=CAU" width="auto" height="30" alt="Responsive Web Design" /></a> |  
-| <a href="https://www.freecodecamp.org/certification/fcc249e1ede-d5d2-4bf3-b6b3-2988ee203dfa/javascript-algorithms-and-data-structures">JavaScript Algorithms and Data Structures</a> | <a href="https://www.freecodecamp.org/certification/fcc249e1ede-d5d2-4bf3-b6b3-2988ee203dfa/javascript-algorithms-and-data-structures"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToG-Qp0K4UBPzNfu7JeUEZUZuEZNYmUFTZo3eTvUoDg2iamY8vNWDfy455DExnyCO26A&usqp=CAU" width="auto" height="30" alt="Responsive Web Design" /></a> |  
-| <a href="https://www.dicoding.com/certificates/1RXY08KJ3ZVM">Memulai Pemrograman dengan Dart</a> | <a href="https://www.dicoding.com/certificates/1RXY08KJ3ZVM"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRb7UY8hxIdVjK8FAlrbGagSywJUTPZWTQ6Wg&s" width="auto" height="30" alt="JavaScript Algorithms and Data Structures" /></a> |  
-| <a href="https://www.udemy.com/certificate/UC-9db67cac-1829-4a37-97c8-d4f564082225/">Laravel 10 - Build Multi Vendor Ecommerce Website</a> | <a href="https://www.udemy.com/certificate/UC-9db67cac-1829-4a37-97c8-d4f564082225/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyttEt681hSia3uHYLr65Y0oe4z9U4UeU_pLmDtIUeoMaT3m4ElMFCcJm5D9r9yVdm5bo&usqp=CAU" width="auto" height="30" alt="Laravel" /></a> |  
-| <a href="https://www.udemy.com/certificate/UC-7d42b8fd-cfa4-48b1-be9a-cbc88699f398/">NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno)</a> | <a href="https://www.udemy.com/certificate/UC-7d42b8fd-cfa4-48b1-be9a-cbc88699f398/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyttEt681hSia3uHYLr65Y0oe4z9U4UeU_pLmDtIUeoMaT3m4ElMFCcJm5D9r9yVdm5bo&usqp=CAU" width="auto" height="30" alt="NodeJS" /></a> |  
-| <a href="https://www.udemy.com/certificate/UC-baac4727-1881-475d-be41-a6350e8af733/">Flutter & Dart - The Complete Guide</a> | <a href="https://www.udemy.com/certificate/UC-baac4727-1881-475d-be41-a6350e8af733/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyttEt681hSia3uHYLr65Y0oe4z9U4UeU_pLmDtIUeoMaT3m4ElMFCcJm5D9r9yVdm5bo&usqp=CAU" width="auto" height="30" alt="Flutter" /></a> |  
-| <a href="https://www.udemy.com/certificate/UC-3a8bb83e-abf0-4e44-a292-b5e8dac5373f/">The Complete Android Developer Course - Java & Kotlin</a> | <a href="https://www.udemy.com/certificate/UC-3a8bb83e-abf0-4e44-a292-b5e8dac5373f/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyttEt681hSia3uHYLr65Y0oe4z9U4UeU_pLmDtIUeoMaT3m4ElMFCcJm5D9r9yVdm5bo&usqp=CAU" width="auto" height="30" alt="Android Development" /></a> |
-| <a href="https://www.udemy.com/certificate/UC-49f53366-ff8b-43eb-b06a-3f3bde317d85/">Filament Admin Panel Course for Laravel</a> | <a href="https://www.udemy.com/certificate/UC-49f53366-ff8b-43eb-b06a-3f3bde317d85/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyttEt681hSia3uHYLr65Y0oe4z9U4UeU_pLmDtIUeoMaT3m4ElMFCcJm5D9r9yVdm5bo&usqp=CAU" width="auto" height="30" alt="Android Development" /></a> |
-
-
-</div>
-
----  
-
-## 🖥️ Portfolio    
-### Here are some of the projects I've worked on:     
-<div align="center"> 
-      
-| Category                     | Website |  
-|------------------------------|---------|  
-| E-Commerce                   | <a href="https://indracostore.com" target="_blank">IndracoStore</a> |  
-| E-Commerce                   | <a href="https://supresso.co.id" target="_blank">Supresso</a> |  
-| Gift and Voucher Management   | <a href="https://point.indraco.com" target="_blank">Indraco Point</a> |  
-| Employee Management (HRIS)   | <a href="https://new.sidar.id/authsignin" target="_blank">Sidar</a> |  
-| POS System                   | <a href="https://menu.supresso.co.id" target="_blank">Supresso Menu</a> |  
-| Landing Page                 | <a href="https://dapurintirasa.com" target="_blank">Dapur Inti Rasa</a> |  
-| Company Profile              | <a href="https://indraco.com" target="_blank">Indraco</a> |  
-| E-Commerce                   | <a href="https://supresso.com" target="_blank">Supresso Singapore</a> |  
-| E-Commerce                   | <a href="https://tokosda.com" target="_blank">Toko SDA</a> |  
-| Company Profile              | <a href="https://sda.co.id" target="_blank">SDA</a> |  
-
-</div>
-  
----  
-  
-## 💼 Skills
-
-<div align="center"> 
-
-|  |  |
-|---|---|  
-| Web Development | Mobile Development |
-| Backend Development | Frontend Development |
-| RESTful APIs | Internet Of Things (IoT) |
-| Database Management | Object-Oriented Programming (OOP) |
-| Version Control | Full Stack Development |
-
-</div>
-
----  
-  
-## 📊 GitHub Stats  
-<p align="center">  
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=danu-nur&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="Most Used Languages" />  
-</p>  
-<p align="center">  
-    <img src="https://github-readme-stats.vercel.app/api?username=danu-nur&theme=tokyonight&show_icons=true&locale=en" alt="GitHub Stats" />  
-</p>  
-<!-- <p align="center">
-    <img src="https://streak-stats.demolab.com?user=danu-nur&theme=tokyonight&date_format=j%20M%5B%20Y%5D&mode=weekly" />
-</p>  -->
-<p align="center">  
-    <a href="https://github.com/ryo-ma/github-profile-trophy">  
-        <img src="https://github-profile-trophy.vercel.app/?username=danu-nur&theme=tokyonight" alt="GitHub Trophy" />  
-    </a>  
-</p>  
